@@ -1,0 +1,19 @@
+{
+  "name": "3.12-continuous-deployment-serverless",
+  "version": "1.0.0",
+  "description": "```\r git clone\r git status\r git add .\r git commit -m \"commit message\"\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangkhnic/3.12-continuous-deployment-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangkhnic/3.12-continuous-deployment-serverless/issues"
+  },
+  "homepage": "https://github.com/tangkhnic/3.12-continuous-deployment-serverless#readme"
+}
