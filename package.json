@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/tangkhnic/3.12-continuous-deployment-serverless/issues"
   },
-  "homepage": "https://github.com/tangkhnic/3.12-continuous-deployment-serverless#readme"
+  "homepage": "https://github.com/tangkhnic/3.12-continuous-deployment-serverless#readme",
+  "dependencies": {
+    "serverless": "^3.37.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^13.3.0"
+  }
 }
