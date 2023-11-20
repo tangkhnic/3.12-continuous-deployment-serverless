@@ -1,1 +1,1 @@
-# 3.12-continuous-deployment-serverless
+# 3.12-continuous-deployment-serverless activity
